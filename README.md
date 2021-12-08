@@ -26,7 +26,12 @@ TYT is very satisfying for me. Fun fact: I got to meet Alexandria
 Ocasio Cortez in person when she came on The Young Turks some time after she 
 won her primary and before she won the general election in 2018! 
 
-# my active projects
+# my projects
+- [devtools](https://github.com/rezonant/devtools) -- All your devtools in one place
+- [poker](https://github.com/rezonant/poker) -- A simple standalone planning poker app
+- [sliptap](https://sliptap.com) -- Sliptap is a search engine focusing on media. 
+  Sliptap is constantly crawling the web and building an index of the world's media
+  using JSON-LD and OpenGraph metadata.
 - [@astronautlabs/diazo](https://github.com/astronautlabs/diazo) -- Diazo is a 
   directed acyclical graph editor component for Angular in the style of Unreal
   Engine's Blueprint system. It can be used for lots of domains and use cases!
