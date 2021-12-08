@@ -53,7 +53,8 @@ won her primary and before she won the general election in 2018!
 
 Over the years I have honed my preferred toolset quite a lot. Find below a list 
 of components that I use (in addition to my libraries above) for almost every 
-project.
+project. I've worked with many alternatives to the tech listed below, but I've 
+found these solutions pack the best punch.
 
 - [Windows](https://www.microsoft.com/en-us/windows) -- There was a time where I
   was not a fan of Windows, but through years of working with the Windows stack,
@@ -66,17 +67,8 @@ project.
   was Slackware, which I learned on my own as an angsty nerdy teenager. I have 
   a deep understanding of Linux' architecture, having built experimental distributions 
   based on Linux for fun.
-- [Firebase](https://firebase.google.com) -- I believe the best path is to default 
-  to serverless architectures, and add tangible servers only when serverless cannot 
-  accomodate the use case. I have built a number of applications on Firebase and 
-  it is definitely the first tool I reach for when I look at hosting, database, 
-  and authentication for my apps.
-- [Google Cloud](https://cloud.google.com) -- While I don't deploy VMs on Google Cloud,
-  I found the cloud-native components that Google provides (like Cloud Messaging, PubSub,
-  Cloud Functions, Kubernetes etc) perfectly complement Firebase, and often help me avoid spinning 
-  up a real persistent service in VMs or Containers. I still use Amazon and Azure 
-  at times, and for some projects I have used those clouds extensively, but I prefer
-  Google Cloud when it makes sense.
+- [Kubernetes](https://kubernetes.io/) -- Abstract cloud native applications is today's reality.
+- [Linode](https://cloud.google.com) -- Deploy your Kubernetes workloads here
 - [Typescript](https://typescriptlang.org/) -- When I was introduced to Typescript 
   with Angular 2, I fell in love. Fast forward to now (Angular 10 was just released)
   and I now use Typescript exclusively when building browser apps and Node.js services.
@@ -98,8 +90,6 @@ project.
   one reason or another. 
 
 # side projects
-- [sliptap](https://sliptap.com) -- Sliptap is a slick multi-source online media browser and 
-  player. Watch content from many video websites in a single place.
 - [streamatik](https://streamatik.com) -- Streamatik is a good looking Twitch multi-viewer.
 - [rezone](https://github.com/rezonant/rezonae) -- I ❤️ zone.js, but I believe its 
   API is difficult to use and somewhat overcomplicated. Zone.js also needs to 
