@@ -5,12 +5,12 @@
 Hello! My name is Liam. I work at [TYT](https://tyt.com) in the daytime and am 
 hacking away at my broadcast software startup [Astronaut Labs](https://astronautlabs.com)
 in the night time hours. I am passionate about all things media, especially 
-audio and video systems. I have over ten years of experience as a software engineer
+audio and video systems. I have over fifteen years of experience as a professional software engineer
 and have worked on projects in many domains like health care, printshops, 
 SMS marketing, and of course, lots and lots of media, both on the consumer side 
 as well as professional media production tooling.
 
-I have been in the open source community for at least fifteen years,
+I have been in the open source community for at least twenty years,
 and have contributed code to a number of smaller projects, like Slicker 
 (KDE Kicker replacement), SharpOS (a hobbyist OS written in C#). I have 
 participated in community discussions in Mono (an open source .NET implementation),
