@@ -35,10 +35,7 @@ won her primary and before she won the general election in 2018!
 - [@astronautlabs/diazo](https://github.com/astronautlabs/diazo) -- Diazo is a 
   directed acyclical graph editor component for Angular in the style of Unreal
   Engine's Blueprint system. It can be used for lots of domains and use cases!
-- [@astronautlabs/scte104](https://github.com/astronautlabs/scte104) -- As part
-  of our work at Astronaut Labs I have built an open source implementation of the 
-  SCTE 104 client/server signaling protocol. As far as I know, it is the only 
-  open source implementation of SCTE 104 made for Node.js.
+- [@astronautlabs/broadcast](https://github.com/astronautlabs/broadcast) -- I am the author of Astronaut Labs' broadcast stack, which implements tons of audio/video/broadcast specifications in Typescript for use in our products and by the community at large.
 - [alterior](https://github.com/alterior-mvc/alterior) -- Alterior is an 
   application framework that primarily facilitates Node.js server 
   applications of all types. It uses a dependency injection system that is similar
