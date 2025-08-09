@@ -3,6 +3,7 @@
 <!-- SOCIALS -->
 [Mastodon](https://cliff.social/@rezonant) | 
 [Twitter](https://twitter.com/rezonant) | [LinkedIn](https://www.linkedin.com/in/william-lahti-47a1b916/) | Email me, I'm `wilahti` on `gmail.com` | Want to support my work? [Sponsor me!](https://github.com/sponsors/rezonant) I'm also on [Venmo](https://venmo.com/liamlahti)
+<!-- /SOCIALS -->
 
 Hello! My name is Liam. I work at [TYT](https://tyt.com) in the daytime and am 
 hacking away at my broadcast software startup [Astronaut Labs](https://astronautlabs.com)
